@@ -16,7 +16,7 @@ The dataset used in this project is sourced from [Kaggle](https://www.kaggle.com
 To run this project locally, follow these steps:
 
 1. Clone the repository:
-2. git clone: [https://github.com/hariharanthangaraj/EDA_demo](https://github.com/hariharanthangaraj/EDA_demo.git)
+2. git clone: (https://github.com/johnsonoff/EDA_DEMO.git)
 3.Install the required dependencies:
 pip install -r requirements.txt
 4. Run the Jupyter notebook:
